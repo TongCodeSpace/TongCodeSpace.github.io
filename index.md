@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+>**欢迎来到我的数字花园**
 
-[[another-page]]
+[另一个页面](another-page)
 
 There should be whitespace between paragraphs.
 
