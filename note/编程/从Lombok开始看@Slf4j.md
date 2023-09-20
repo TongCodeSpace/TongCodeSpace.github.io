@@ -9,7 +9,6 @@
 > https://docs.oracle.com/javase/tutorial/jndi/overview/index.html
 > [slf4j 官网](https://www.slf4j.org/manual.html)
 > [slf4j github](https://github.com/qos-ch/slf4j)
-> %%想要电子书的可以找我%%
 
 # 引入
 
@@ -178,6 +177,7 @@ javac 对代码的编译过程如下图所示，在 parse和enter 这个阶段�
 > 参考资料：
 > 《深入了解 Java 虚拟机》 第 10.2.3 章
 > 《深入了解 JVM 字节码》 第 8 章
+
 ## Slf4j 做了什么
 
  lombok 的作用是帮我们生成下面这行代码，那么 Slf4j (simple logging facade for java)才是这行代码的处理者
