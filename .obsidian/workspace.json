@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/编程/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#守护线程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/编程/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/编程/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/编程/未命名.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/复盘/低级BUG复盘.md",
-    "index.md",
     "note/Aboutme.md",
+    "note/编程/未命名.md",
+    "note/编程/守护线程.md",
+    "note/复盘/低级BUG复盘.md",
+    "note/编程",
+    "note/生活",
+    "index.md",
     "note/复盘",
     "note/another-page.md",
     "note/About.md",
