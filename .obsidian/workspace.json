@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/another-page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/another-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/another-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/another-page.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60c8dd972b0651a",
+  "active": "6aeb6f0611f0cd6f",
   "lastOpenFiles": [
-    "note/Aboutme.md",
     "index.md",
+    "note/Aboutme.md",
     "note/About.md",
     "README.md",
     "note",
-    "another-page.md",
+    "note/another-page.md",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"

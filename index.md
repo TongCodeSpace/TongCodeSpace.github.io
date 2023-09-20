@@ -4,7 +4,7 @@ layout: default
 
 # **欢迎来到我的数字花园**
 
-[另一个页面](another-page)
+[另一个页面](another-page.md)
 
 # Header 1
 
