@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/未命名.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#守护线程",
+                "query": "tag:#从",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/未命名.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/未命名.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/未命名.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,16 +157,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1188a80c3b1190e",
+  "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/编程/从Lombok开始看@Slf4j.md",
+    "index.md",
+    "note/编程.md",
     "截屏2023-08-08 20.47.05.png.md",
-    "note/编程/未命名.md",
     "note/Aboutme.md",
     "note/编程/守护线程.md",
     "note/复盘/低级BUG复盘.md",
     "note/编程",
     "note/生活",
-    "index.md",
     "note/复盘",
     "note/another-page.md",
     "note/About.md",
