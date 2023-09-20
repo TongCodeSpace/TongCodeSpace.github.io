@@ -51,4 +51,4 @@ end
 <dd>Green</dd>
 </dl>
 
-![关于我](note/Aboutme)
+[关于我](note/Aboutme)
