@@ -15,7 +15,7 @@
               "state": {
                 "file": "note/编程/未命名.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,10 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60c8dd972b0651a",
+  "active": "c1188a80c3b1190e",
   "lastOpenFiles": [
-    "note/Aboutme.md",
+    "截屏2023-08-08 20.47.05.png.md",
     "note/编程/未命名.md",
+    "note/Aboutme.md",
     "note/编程/守护线程.md",
     "note/复盘/低级BUG复盘.md",
     "note/编程",
