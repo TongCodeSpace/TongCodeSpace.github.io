@@ -8,6 +8,7 @@ layout: default
 建立搜索引擎一般有三个过程：**爬取数据**，**进行分词**，**建立倒排索引**
 
 > 爬取数据一般通过爬虫获取，所以不在 ElasticSeach 考虑的范围内
+
 ### 进行分词
 分词：就是把内容拆分为很多个词语，ES是把text格式的字段按照分词器进行分词并保存为索引的
 
@@ -26,7 +27,9 @@ layout: default
 #### 示例
 文本
 T0 = `0. this is a text`
+
 T1 = `1. what is it`
+
 T2 = `2. I do not know what is that`
 我们可以得到的索引
 ```
