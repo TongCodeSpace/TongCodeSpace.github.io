@@ -332,6 +332,7 @@ static Set<URL> findPossibleStaticLoggerBinderPathSet() {
 > [slf4j 官网](https://www.slf4j.org/manual.html)
 > 
 > [slf4j github](https://github.com/qos-ch/slf4j)
+
 ## log4j 做了什么
 
 ### log4j-slf4j-impl
