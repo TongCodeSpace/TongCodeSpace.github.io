@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "note/编程/框架学习/从Lombok开始看@Slf4j.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "note/编程/框架学习/从Lombok开始看@Slf4j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "note/编程/框架学习/从Lombok开始看@Slf4j.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md"
+                "file": "note/编程/框架学习/从Lombok开始看@Slf4j.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "index.md",
+    "note/Aboutme.md",
+    "note/生活/生活.md",
+    "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/编程/多线程/守护线程.md",
-    "index.md",
-    "note/生活/生活.md",
-    "note/Aboutme.md",
     "note/another-page.md",
     "note/编程/编程相关文章汇总.md",
-    "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/框架学习",
     "note/编程/多线程",
     "note/编程/搜索引擎",
