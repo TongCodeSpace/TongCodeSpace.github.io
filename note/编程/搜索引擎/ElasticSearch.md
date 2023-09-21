@@ -94,7 +94,19 @@ book
 
 ## 使用 ElasticSearch
 ### 怎么使用
+ElasticSearch 公开了 所使用的 REST API，可以直接调用这些 API 来配置和访问 ElasticSearch 的功能。
 
+**对记录的增删改查**
+1. 新增一条文档：IP:Port/Index/Type (PUT 请求)
+2. 删除一条文档：IP:Port/Index/Type/Id (PUT 请求)
+3. 修改一条文档：IP:Port/Index/Type/Id（DELETE 请求）
+4. 查看一条文档：IP:Port/Index/Type/Id（GET 请求）
+5. 查询文档：IP:Port/Index/Type/_search 
+	1. elasticSearch 的查询很特别，是 GET 请求，但是使用自己的[查询语法](https://www.elastic.co/guide/en/elasticsearch/reference/5.5/query-dsl.html)，要求 GET 请求带有数据体
 
 ### 集群模式
-1. master 和 slaver
+![截屏2023-09-21 15.56.10.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-09-21%2015.56.10.png)
+
+Elasticsearch 会对数据进行切分，同时每一个分片会保存多个副本，保证在分布式模式下的高可用。在 Elasticsearch 中，节点是对等的，节点间会通过自己的一些规则选取集群的 Master，Master 会负责集群状态信息的改变，并同步给其他节点。
+
+只有建立索引和类型需要经过 Master，数据的写入有一个简单的 Routing 规则，可以 Route 到集群中的任意节点，所以数据写入压力是分散在整个集群的。
