@@ -117,3 +117,7 @@ ElasticSearch 公开了 所使用的 REST API，可以直接调用这些 API 来
 Elasticsearch 会对数据进行切分，同时每一个分片会保存多个副本，保证在分布式模式下的高可用。在 Elasticsearch 中，节点是对等的，节点间会通过自己的一些规则选取集群的 Master，Master 会负责集群状态信息的改变，并同步给其他节点。
 
 只有建立索引和类型需要经过 Master，数据的写入有一个简单的 Routing 规则，可以 Route 到集群中的任意节点，所以数据写入压力是分散在整个集群的。
+
+
+[back](编程相关文章汇总.md)
+[home](index.md)

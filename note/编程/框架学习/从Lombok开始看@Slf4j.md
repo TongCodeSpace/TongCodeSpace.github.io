@@ -404,4 +404,6 @@ public L getLogger(final String name) {
 # 总结
 
 lombok 的 @slf4j 注解之所以这么好用，是因为从 lombok 到 slf4j 再到 log4j ，每一个层次都通过设计对代码，原理进行了优化，在共同的作用下，实现了好用的日志组件，好用的日志注解。对于我们来说，可以学习 lombok 的原理，实现一些我们自己的代码检查器和代码生成器。可以学习 slf4j 和 log4j 的设计思路和代码实现，让代码更加的优雅，让程序具有更好的稳定性
- 
+
+[back](编程相关文章汇总.md)
+[home](index.md)
