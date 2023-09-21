@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "index.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "index.md"
               }
             }
           }
@@ -168,13 +168,15 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/Aboutme.md",
+    "index.md",
+    "note/生活/爱好/未命名.md",
+    "note/生活/爱好",
     "note/编程/搜索引擎/ElasticSearch.md",
     "note/生活/生活.md",
     "note/复盘/复盘总结.md",
     "note/编程/编程相关文章汇总.md",
-    "index.md",
     "note/another-page.md",
-    "note/Aboutme.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/编程/多线程/守护线程.md",
     "note/生活/moment/记与许知远的相遇.md",
