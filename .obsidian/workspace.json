@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/搜索引擎/ElasticSearch.md"
+                "file": "index.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/编程/多线程/守护线程.md",
     "index.md",
@@ -165,7 +166,6 @@
     "note/复盘/复盘总结.md",
     "note/复盘/复盘总结",
     "note/复盘/低级BUG复盘.md",
-    "note/编程/搜索引擎/ElasticSearch.md",
     "note/Aboutme.md",
     "note/another-page.md",
     "note/编程/编程相关文章汇总.md",
