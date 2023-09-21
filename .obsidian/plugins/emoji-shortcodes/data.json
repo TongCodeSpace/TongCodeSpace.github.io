@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":movie_camera:",
+    ":paperclip:",
+    ":house_with_garden:"
+  ]
+}
