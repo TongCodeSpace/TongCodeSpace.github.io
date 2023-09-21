@@ -4,7 +4,7 @@ layout: default
 # **欢迎来到我的数字花园**
 
 
-hello，欢迎来到 Tong 的自留地 🏡，本站的建立依赖于 Obsidian 笔记软件，jekyll 静态网站生成器以及 minimal theme，在此感谢 🙇‍♂ 这些开发者们！
+hello，欢迎来到 Tong 的自留地 🏡，本站的建立依赖于 Obsidian 笔记软件，jekyll 静态网站生成器，minimal theme 以及 github pager，在此感谢 🙇‍♂ 这些开发者们！
 
 我是一名后端开发工程师 ⌨️，在这里没有检索框，每一条小路都将带领你去到神秘的地方，当你迷路时，请善用底下的 **back** 和 **home** 按钮吧
 
@@ -18,5 +18,5 @@ hello，欢迎来到 Tong 的自留地 🏡，本站的建立依赖于 Obsidian 
 
 最后，这是我的 📄 [自我介绍](note/Aboutme) ，很高兴在这里遇见你
 
-希望你能在我的花园里得到一个快乐的旅程 🎉 ！当然如果你对我的花园有什么意见，也欢迎通过邮箱 bigguaiwutong@qq.com 与我联系
+希望你能在我的花园里得到一个快乐的旅程 🎉  ，如果你觉得我的内容对你有所帮助，欢迎你点进我的 github，帮我点点 star ⭐ 吧！当然如果你对我的花园有什么意见，也欢迎通过邮箱 bigguaiwutong@qq.com 与我联系
 
