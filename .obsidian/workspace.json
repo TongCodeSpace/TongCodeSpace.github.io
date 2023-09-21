@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/生活/生活.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/生活/生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/生活/生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/生活/生活.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "note/生活/生活.md"
               }
             }
           }
@@ -168,18 +168,18 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/复盘/复盘总结.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/生活/生活.md",
+    "index.md",
     "note/another-page.md",
     "note/Aboutme.md",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/编程/多线程/守护线程.md",
     "note/生活/moment/记与许知远的相遇.md",
     "note/生活/moment",
     "note/复盘/低级BUG复盘.md",
-    "note/复盘/复盘总结.md",
-    "note/生活/生活.md",
-    "index.md",
     "thumbnail.png",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
