@@ -19,16 +19,31 @@ layout: default
 - Tokenizer：按照规则将文本切分为单词
 - Token Filter：将切分的单词进行加工，如单词小写、删除stopword、增加同义词等
 
-
-1. 切分关键词，把关键的、核心的单词切出来。 （根据分词器的不同，单词切分的方式也不同，常用的中文分词器是词库分词器 LK）
-2. 去除停用词。（去除一些无谓的词，类似于：的，了，啊等）
-3. 对于英文单词，把所有字母转为小写（搜索时不区分大小写）
-
 ### 建立倒排索引 
 
 #### 倒排索引是什么
 也常被称为**反向索引**、**置入文件**或**反向文件**，是一种索引方法，被用来存储在全文索引下某个单词在一个文档或者一组文档中的存储位置的映射。它是文档检索系统中最常用的数据结构。
+#### 示例
+文本
+T0 = `0. this is a text`
+T1 = `1. what is it`
+T2 = `2. I do not know what is that`
+我们可以得到的索引
+```
+a:{0}
+this:{0}
+text:{0}
+it:{1}
+i:{2}
+do:{2}
+not:{2}
+know:{2}
+that:{2}
+what:{1,2}
+is:{0,1,2}
+```
 
+当我们搜索 `what` `is` `it` 时，取 {1,2}，{0,1,2}，{1} 的交集，查询到 T1 文本 
 ## ElasticSearch
 在 ElasticSearch 中有三个重要的专有名词：**索引**、**类型**、**文档**
 
@@ -40,13 +55,46 @@ layout: default
 
 ![es对照.drawio.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/dataes%E5%AF%B9%E7%85%A7.drawio.png)
 
-示例
+### 示例
+**建立索引**
+book
+
+**创建类型**
+```json
+"book":{
+    "properties": {
+        "word_count": {
+            "type": "integer"
+        },
+        "author": {
+            "type": "keyword"
+        },
+        "title": {
+            "type": "text"
+        },
+        "publish_date": {
+            "type": "date",
+            "format": "yyyy-MM-dd HH:mm:ss || yyyy-MM-dd || epoch_millis"
+        }
+    }
+}
+```
+
+**文档**
+```json
+{
+	"word_count": 121212,
+	"author": "余华",
+	"title": "在细雨中彷徨",
+	"publish_date": "1994-09-27"
+}
+```
 
 > text 和 keyword 区别：首先 text 和 keyword 都是用来表示字符串的，但是 text 在存入 ES 时会进行分词，然后感觉分词内容进行反向索引，而 keyword 会直接根据内容建立反向索引
 
-使用 ElasticSearch
+## 使用 ElasticSearch
+### 怎么使用
 
-使用
-1. 怎么使用
-	1. 使用了 restful 接口，直接调用接口即可进行操作
-2. master 和 slaver
+
+### 集群模式
+1. master 和 slaver

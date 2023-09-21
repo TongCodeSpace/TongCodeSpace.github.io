@@ -140,12 +140,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,11 +160,11 @@
   "lastOpenFiles": [
     "note/编程/编程相关文章汇总.md",
     "note/编程/搜索引擎/ElasticSearch.md",
+    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
+    "note/编程/多线程/守护线程.md",
     "index.md",
     "note/编程/框架学习",
     "note/编程/多线程",
-    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
-    "note/编程/多线程/守护线程.md",
     "note/编程/搜索引擎",
     "note/复盘/低级BUG复盘.md",
     "note/编程.md",
