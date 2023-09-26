@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/复盘总结.md",
+                "file": "note/编程/框架学习/雪花算法学习分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/复盘总结.md",
+                "file": "note/编程/框架学习/雪花算法学习分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/复盘总结.md",
+                "file": "note/编程/框架学习/雪花算法学习分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/复盘总结.md"
+                "file": "note/编程/框架学习/雪花算法学习分析.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/复盘总结.md"
+                "file": "note/编程/框架学习/雪花算法学习分析.md"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "4ddc490efc836f13",
   "lastOpenFiles": [
-    "note/生活/生活.md",
     "note/复盘/复盘总结.md",
+    "note/编程/框架学习/雪花算法学习分析.md",
+    "note/生活/生活.md",
     "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/低级BUG复盘.md",
     "note/生活/moment/音乐节.md",
