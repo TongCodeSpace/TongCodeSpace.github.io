@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/工作/转正答辩.md",
+                "file": "note/复盘/复盘总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/工作/转正答辩.md",
+                "file": "note/复盘/复盘总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/工作/转正答辩.md",
+                "file": "note/复盘/复盘总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/工作/转正答辩.md"
+                "file": "note/复盘/复盘总结.md"
               }
             }
           },
@@ -160,11 +160,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/工作/转正答辩.md"
+                "file": "note/复盘/复盘总结.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,9 +183,10 @@
   },
   "active": "4ddc490efc836f13",
   "lastOpenFiles": [
-    "note/复盘/工作/低级BUG复盘.md",
+    "note/生活/生活.md",
     "note/复盘/复盘总结.md",
     "note/复盘/工作/转正答辩.md",
+    "note/复盘/工作/低级BUG复盘.md",
     "note/生活/moment/音乐节.md",
     "note/生活/爱好/自行车.md",
     "note/生活/旅行/济州岛之行.md",
@@ -197,7 +199,6 @@
     "note/编程/多线程/守护线程.md",
     "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/编程相关文章汇总.md",
-    "note/生活/生活.md",
     "note/生活/moment/记见许知远.md",
     "note/生活/moment/记与许知远的相遇.md",
     "note/Aboutme.md",
