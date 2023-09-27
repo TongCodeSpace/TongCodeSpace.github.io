@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/lua 脚本雪花算法.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/lua 脚本雪花算法.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/lua 脚本雪花算法.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/lua 脚本雪花算法.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/lua 脚本雪花算法.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "0159d8198c96620e",
   "lastOpenFiles": [
+    "note/编程/框架学习/lua脚本雪花算法.md",
     "note/编程/框架学习/雪花算法重复主键问题分析.md",
-    "note/编程/框架学习/lua 脚本雪花算法.md",
     "note/编程/编程相关文章汇总.md",
     "note/复盘/复盘总结.md",
     "note/生活/生活.md",
