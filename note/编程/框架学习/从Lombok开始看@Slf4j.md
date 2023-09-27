@@ -6,9 +6,6 @@ layout: post
 title: 从 Lombok 开始看 @Slf4j
 author: tong
 ---
-
-# 从 Lombok 开始看 @Slf4j
-
 > 参考资料：
 > https://projectlombok.org/features/log
 >

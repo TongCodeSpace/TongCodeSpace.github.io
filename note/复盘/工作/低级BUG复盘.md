@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: post
 tags:
   - 复盘
+author: tong
+title: 低级BUG复盘
 ---
-# 低级BUG复盘
+
 
 ## 问题
 1. 粗心大意
