@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tags:
   - 分布式
   - ID
