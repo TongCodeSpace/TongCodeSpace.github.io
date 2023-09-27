@@ -5,6 +5,7 @@ tags:
   - ID
   - 编程
 title: 雪花算法lua脚本
+author: tong
 ---
 雪花算法
 具体 Lua 脚本逻辑如下：
