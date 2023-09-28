@@ -37,12 +37,9 @@
             "id": "8a9e60e3cecd6142",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "thumbnail.png"
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "file": "thumbnail.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "file": "thumbnail.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
+                "file": "thumbnail.png"
               }
             }
           },
@@ -173,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
+                "file": "thumbnail.png"
               }
             }
           }
@@ -194,14 +191,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a9e60e3cecd6142",
+  "active": "6aeb6f0611f0cd6f",
   "lastOpenFiles": [
-    "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
-    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
-    "readme.md",
     "index.md",
-    "note/编程/框架学习/雪花算法",
+    "readme.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
+    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+    "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+    "note/编程/框架学习/雪花算法",
     "note/编程/编程相关文章汇总.md",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
