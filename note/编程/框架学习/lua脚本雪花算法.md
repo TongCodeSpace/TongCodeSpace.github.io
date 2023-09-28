@@ -7,7 +7,7 @@ tags:
 title: 雪花算法lua脚本
 author: tong
 ---
-雪花算法
+
 具体 Lua 脚本逻辑如下：
 
 1. 第一个服务节点在获取时，Redis 可能是没有 snowflake_work_id_key 这个 Hash 的，应该先判断 Hash 是否存在，不存在初始化 Hash，dataCenterId、workerId 初始化为 0
