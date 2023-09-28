@@ -9,6 +9,8 @@ author: tong
 ---
 ## 动态分配-Redis
 
+### 实现
+
 通过 redis 去获取 workId 和 datacenterId
 
 ![redis雪花算法.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/dataredis%E9%9B%AA%E8%8A%B1%E7%AE%97%E6%B3%95.png)
@@ -26,6 +28,9 @@ author: tong
 dataCenterId、workerId 是一直向下推进的，总体形成一个环状。通过 **Lua 脚本的原子性**，保证 1024 节点下的雪花算法生成不重复。如果标识位等于 1024，则从头开始继续循环推进
 
 ![redis存储标识位.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/dataredis%E5%AD%98%E5%82%A8%E6%A0%87%E8%AF%86%E4%BD%8D.png)
+
+### 问题
+
 
 
 ---

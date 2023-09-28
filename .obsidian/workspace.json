@@ -37,9 +37,12 @@
             "id": "8a9e60e3cecd6142",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "thumbnail.png"
+                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thumbnail.png",
+                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thumbnail.png",
+                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thumbnail.png"
+                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
               }
             }
           },
@@ -170,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "thumbnail.png"
+                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
               }
             }
           }
@@ -191,20 +194,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6aeb6f0611f0cd6f",
+  "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
+    "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+    "thumbnail.png",
     "index.md",
     "readme.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
-    "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
     "note/编程/框架学习/雪花算法",
     "note/编程/编程相关文章汇总.md",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
     "docs/CODE_OF_CONDUCT.md",
     "note/Aboutme.md",
-    "thumbnail.png",
     "note/another-page.md",
     "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/低级BUG复盘.md",
@@ -229,7 +232,6 @@
     "note/编程/多线程",
     "note/编程/搜索引擎",
     "note/编程.md",
-    "截屏2023-08-08 20.47.05.png.md",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"
