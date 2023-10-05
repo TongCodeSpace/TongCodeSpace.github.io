@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "file": "note/Aboutme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "file": "note/Aboutme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+                "file": "note/Aboutme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
+                "file": "note/Aboutme.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md"
+                "file": "note/Aboutme.md"
               }
             }
           }
@@ -196,12 +196,16 @@
   },
   "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
+    "note/编程/开源计划/今年的开源计划.md",
+    "note/编程/搜索引擎/ElasticSearch.md",
+    "note/编程/开源计划",
+    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
+    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
     "thumbnail.png",
     "index.md",
     "readme.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
-    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/框架学习/雪花算法",
     "note/编程/编程相关文章汇总.md",
     "docs/SUPPORT.md",
@@ -211,7 +215,6 @@
     "note/another-page.md",
     "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/低级BUG复盘.md",
-    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/复盘/复盘总结.md",
     "note/生活/生活.md",
     "note/生活/moment/音乐节.md",
@@ -221,7 +224,6 @@
     "note/复盘/阶段",
     "note/复盘/工作",
     "note/编程/多线程/守护线程.md",
-    "note/编程/搜索引擎/ElasticSearch.md",
     "note/生活/moment/记见许知远.md",
     "note/生活/moment/记与许知远的相遇.md",
     "note/生活/爱好",
@@ -230,7 +232,6 @@
     "note/复盘/复盘总结",
     "note/编程/框架学习",
     "note/编程/多线程",
-    "note/编程/搜索引擎",
     "note/编程.md",
     "assets/img/logo.png",
     "assets/img/log.png",
