@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/生活.md",
+                "file": "note/编程/开源计划/今年的开源计划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/生活.md",
+                "file": "note/编程/开源计划/今年的开源计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/生活.md",
+                "file": "note/编程/开源计划/今年的开源计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/生活.md"
+                "file": "note/编程/开源计划/今年的开源计划.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/生活.md"
+                "file": "note/编程/开源计划/今年的开源计划.md"
               }
             }
           }
@@ -196,15 +196,16 @@
   },
   "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
-    "note/编程/多线程/守护线程.md",
+    "note/编程/编程相关文章汇总.md",
     "note/编程/开源计划/今年的开源计划.md",
-    "note/生活/爱好/自行车.md",
+    "note/编程/搜索引擎/ElasticSearch.md",
     "note/生活/生活.md",
+    "note/编程/多线程/守护线程.md",
+    "note/生活/爱好/自行车.md",
     "note/生活/旅行/济州岛之行.md",
     "note/生活/moment/10月-节后第一天上班.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/Aboutme.md",
-    "note/编程/搜索引擎/ElasticSearch.md",
     "note/编程/开源计划",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
@@ -213,7 +214,6 @@
     "readme.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
     "note/编程/框架学习/雪花算法",
-    "note/编程/编程相关文章汇总.md",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
     "docs/CODE_OF_CONDUCT.md",
