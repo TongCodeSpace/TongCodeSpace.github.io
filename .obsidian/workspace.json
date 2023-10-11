@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/think.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+                "file": "note/想法/记录/什么是一个好的博客.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+                "file": "note/想法/think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+                "file": "note/想法/think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/lua脚本雪花算法.md"
+                "file": "note/想法/think.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/雪花算法/lua脚本雪花算法.md"
+                "file": "note/想法/think.md"
               }
             }
           }
@@ -194,13 +194,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a9e60e3cecd6142",
+  "active": "4ddc490efc836f13",
   "lastOpenFiles": [
-    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
+    "index.md",
+    "note/想法/记录/什么是一个好的博客.md",
+    "note/想法/think.md",
+    "note/想法/记录",
+    "note/编程/编程相关文章汇总.md",
+    "note/想法",
     "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
+    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
     "note/编程/开源计划/今年的开源计划.md",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/搜索引擎/ElasticSearch.md",
     "note/生活/生活.md",
     "note/编程/多线程/守护线程.md",
@@ -211,7 +216,6 @@
     "note/Aboutme.md",
     "note/编程/开源计划",
     "thumbnail.png",
-    "index.md",
     "readme.md",
     "note/编程/框架学习/雪花算法",
     "docs/SUPPORT.md",
@@ -226,13 +230,9 @@
     "note/复盘/阶段",
     "note/复盘/工作",
     "note/生活/moment/记见许知远.md",
-    "note/生活/moment/记与许知远的相遇.md",
     "note/生活/爱好",
     "note/生活/moment",
-    "_site/note/编程/从Lombok开始看@Slf4j.md",
     "note/复盘/复盘总结",
-    "note/编程/框架学习",
-    "note/编程/多线程",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"
