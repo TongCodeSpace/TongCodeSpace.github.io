@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/想法/记录/什么是一个好的技术方案.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "note/想法/记录/什么是一个好的技术方案.md"
               }
             }
           }
@@ -220,17 +220,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b2cf296457236c1f",
+  "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
+    "note/想法/记录/什么是一个好的博客.md",
+    "index.md",
     "note/想法/记录/什么是一个好的技术方案.md",
     "_site/note/编程/从Lombok开始看@Slf4j.md",
     "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/想法/think.md",
-    "index.md",
     "sidebar.html",
     "head-custom.html",
-    "note/想法/记录/什么是一个好的博客.md",
     "readme.md",
     "_includes/sidebar.html",
     "note/想法/记录",
