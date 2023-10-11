@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "note/想法/记录/什么是一个好的博客.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "note/想法/记录/什么是一个好的博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "note/想法/记录/什么是一个好的博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md"
+                "file": "note/想法/记录/什么是一个好的博客.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md"
+                "file": "note/想法/记录/什么是一个好的博客.md"
               }
             }
           }
@@ -207,10 +207,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d7414e54fdbddf3",
+  "active": "6aeb6f0611f0cd6f",
   "lastOpenFiles": [
-    "note/想法/think.md",
+    "_includes/sidebar.html",
+    "readme.md",
     "note/想法/记录/什么是一个好的技术方案.md",
+    "note/想法/think.md",
     "index.md",
     "note/想法/记录/什么是一个好的博客.md",
     "note/想法/记录",
@@ -230,7 +232,6 @@
     "note/Aboutme.md",
     "note/编程/开源计划",
     "thumbnail.png",
-    "readme.md",
     "note/编程/框架学习/雪花算法",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
@@ -239,7 +240,6 @@
     "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/低级BUG复盘.md",
     "note/复盘/复盘总结.md",
-    "note/生活/moment/音乐节.md",
     "note/生活/旅行",
     "note/复盘/阶段",
     "note/复盘/工作",
