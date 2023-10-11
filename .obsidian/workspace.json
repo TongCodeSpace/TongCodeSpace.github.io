@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#从",
+                "query": "default",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md"
+                "file": "index.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/记录/什么是一个好的技术方案.md"
+                "file": "index.md"
               }
             }
           }
@@ -207,16 +207,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d7414e54fdbddf3",
+  "active": "6aeb6f0611f0cd6f",
   "lastOpenFiles": [
-    "note/想法/记录/什么是一个好的博客.md",
-    "_includes/sidebar.html",
-    "readme.md",
-    "note/想法/记录/什么是一个好的技术方案.md",
-    "note/想法/think.md",
-    "index.md",
-    "note/想法/记录",
+    "sidebar.html",
+    "head-custom.html",
     "note/编程/编程相关文章汇总.md",
+    "note/想法/记录/什么是一个好的技术方案.md",
+    "note/想法/记录/什么是一个好的博客.md",
+    "index.md",
+    "readme.md",
+    "_includes/sidebar.html",
+    "note/想法/think.md",
+    "note/想法/记录",
     "note/想法",
     "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
@@ -244,7 +246,6 @@
     "note/复盘/阶段",
     "note/复盘/工作",
     "note/生活/爱好",
-    "note/生活/moment",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"
