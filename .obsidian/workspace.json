@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/think.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/think.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/think.md",
+                "file": "note/想法/记录/什么是一个好的技术方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/think.md"
+                "file": "note/想法/记录/什么是一个好的技术方案.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/think.md"
+                "file": "note/想法/记录/什么是一个好的技术方案.md"
               }
             }
           }
@@ -196,9 +196,10 @@
   },
   "active": "4ddc490efc836f13",
   "lastOpenFiles": [
+    "note/想法/think.md",
+    "note/想法/记录/什么是一个好的技术方案.md",
     "index.md",
     "note/想法/记录/什么是一个好的博客.md",
-    "note/想法/think.md",
     "note/想法/记录",
     "note/编程/编程相关文章汇总.md",
     "note/想法",
@@ -229,7 +230,6 @@
     "note/生活/旅行",
     "note/复盘/阶段",
     "note/复盘/工作",
-    "note/生活/moment/记见许知远.md",
     "note/生活/爱好",
     "note/生活/moment",
     "note/复盘/复盘总结",
