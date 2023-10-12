@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md",
+                "file": "note/想法/记录/什么是一个好的数字花园.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md",
+                "file": "note/想法/记录/什么是一个好的数字花园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md",
+                "file": "note/想法/记录/什么是一个好的数字花园.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md"
+                "file": "note/想法/记录/什么是一个好的数字花园.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/记录/什么是一个好的博客.md"
+                "file": "note/想法/记录/什么是一个好的数字花园.md"
               }
             }
           }
@@ -223,7 +223,7 @@
   "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
     "note/想法/记录/什么是一个好的技术方案.md",
-    "note/想法/记录/什么是一个好的博客.md",
+    "note/想法/记录/什么是一个好的数字花园.md",
     "index.md",
     "_site/note/编程/从Lombok开始看@Slf4j.md",
     "note/编程/编程相关文章汇总.md",
