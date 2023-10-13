@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "_site/docs/CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "default",
+                "query": "title:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "_site/docs/CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "_site/docs/CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "_site/docs/CODE_OF_CONDUCT.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "_site/docs/CODE_OF_CONDUCT.md"
               }
             }
           }
@@ -223,13 +222,13 @@
   },
   "active": "8a9e60e3cecd6142",
   "lastOpenFiles": [
+    "note/Aboutme.md",
     "note/生活/生活.md",
     "note/复盘/复盘总结.md",
     "dest/simple-jekyll-search.min.js",
     "dest/simple-jekyll-search.js",
     "dest",
     "search.json",
-    "note/Aboutme.md",
     "note/编程/搜索引擎/ElasticSearch.md",
     "index.md",
     "note/想法/think.md",
