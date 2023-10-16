@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,17 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d7414e54fdbddf3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/复盘/工作/做一次项目负责人.md"
+              }
             }
           },
           {
@@ -176,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "note/复盘/工作/做一次项目负责人.md"
+              }
             }
           }
         ],
@@ -196,9 +193,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d7414e54fdbddf3",
+  "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/想法/记录/什么是一个好的数字花园.md",
+    "note/复盘/工作/做一次项目负责人.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/生活/moment/10月-节后第一天上班.md",
     "index.md",
+    "_site/docs/SUPPORT.md",
+    "note/想法/think.md",
     "_site/docs/CODE_OF_CONDUCT.md",
     "note/Aboutme.md",
     "note/生活/生活.md",
@@ -208,14 +211,11 @@
     "dest",
     "search.json",
     "note/编程/搜索引擎/ElasticSearch.md",
-    "note/想法/think.md",
     "note/编程/多线程/守护线程.md",
     "note/生活/moment/记见许知远.md",
-    "note/想法/记录/什么是一个好的数字花园.md",
     "note/想法/记录/什么是一个好的技术方案.md",
     "CNAME",
     "_site/note/编程/从Lombok开始看@Slf4j.md",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "sidebar.html",
     "head-custom.html",
@@ -229,12 +229,9 @@
     "note/编程/开源计划/今年的开源计划.md",
     "note/生活/爱好/自行车.md",
     "note/生活/旅行/济州岛之行.md",
-    "note/生活/moment/10月-节后第一天上班.md",
     "thumbnail.png",
     "docs/SUPPORT.md",
     "docs/CONTRIBUTING.md",
-    "docs/CODE_OF_CONDUCT.md",
-    "note/another-page.md",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"
