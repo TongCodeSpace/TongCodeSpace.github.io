@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/自我/我是谁.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "title:",
+                "query": "输出",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/自我/我是谁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/想法/自我/我是谁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/想法/自我/我是谁.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "note/想法/自我/我是谁.md"
               }
             }
           }
@@ -195,13 +195,19 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/想法/记录/什么是一个好的数字花园.md",
+    "note/生活/爱好/自行车.md",
+    "note/想法/自我/我是谁.md",
+    "note/想法/think.md",
+    "note/想法/社会",
+    "note/想法/羁绊",
+    "note/想法/自我",
+    "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/做一次项目负责人.md",
+    "note/想法/记录/什么是一个好的数字花园.md",
+    "index.md",
     "note/编程/编程相关文章汇总.md",
     "note/生活/moment/10月-节后第一天上班.md",
-    "index.md",
     "_site/docs/SUPPORT.md",
-    "note/想法/think.md",
     "_site/docs/CODE_OF_CONDUCT.md",
     "note/Aboutme.md",
     "note/生活/生活.md",
@@ -220,18 +226,12 @@
     "sidebar.html",
     "head-custom.html",
     "readme.md",
-    "_includes/sidebar.html",
-    "note/想法/记录",
-    "note/想法",
     "note/编程/框架学习/雪花算法/lua脚本雪花算法.md",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/框架学习/雪花算法/雪花算法实现.md",
     "note/编程/开源计划/今年的开源计划.md",
-    "note/生活/爱好/自行车.md",
     "note/生活/旅行/济州岛之行.md",
     "thumbnail.png",
-    "docs/SUPPORT.md",
-    "docs/CONTRIBUTING.md",
     "assets/img/logo.png",
     "assets/img/log.png",
     "assets/img/截屏2023-09-19 19.33.57.png"
