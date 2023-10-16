@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次项目负责人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/自我/我是谁.md"
+                "file": "note/复盘/工作/做一次项目负责人.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/自我/我是谁.md"
+                "file": "note/复盘/工作/做一次项目负责人.md"
               }
             }
           }
@@ -195,13 +195,13 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/生活/爱好/自行车.md",
+    "note/复盘/工作/转正答辩.md",
     "note/想法/自我/我是谁.md",
+    "note/生活/爱好/自行车.md",
     "note/想法/think.md",
     "note/想法/社会",
     "note/想法/羁绊",
     "note/想法/自我",
-    "note/复盘/工作/转正答辩.md",
     "note/复盘/工作/做一次项目负责人.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "index.md",
