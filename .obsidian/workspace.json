@@ -6,7 +6,7 @@
       {
         "id": "a31659287f568c54",
         "type": "tabs",
-        "dimension": 71.03340292275574,
+        "dimension": 79.37201907790143,
         "children": [
           {
             "id": "b60c8dd972b0651a",
@@ -14,13 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
             "group": "822bcc55b59179fe"
+          },
+          {
+            "id": "367b6b6b862bea7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/框架学习/netty/IO模型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7555005cd9e9d493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/框架学习/netty/IO模型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           },
           {
             "id": "4ddc490efc836f13",
@@ -51,9 +77,9 @@
         ]
       },
       {
-        "id": "779c2e0e154bbc8c",
+        "id": "e8ddf21560c7cffa",
         "type": "tabs",
-        "dimension": 28.96659707724426,
+        "dimension": 20.62798092209857,
         "children": [
           {
             "id": "ca5251e797434522",
@@ -61,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -136,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md"
+                "file": "note/编程/框架学习/netty/IO模型.md"
               }
             }
           },
@@ -196,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md"
+                "file": "note/编程/框架学习/netty/IO模型.md"
               }
             }
           }
@@ -220,9 +246,9 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/编程/框架学习/netty/Reactor 模型.md",
-    "note/编程/框架学习/netty/IO模型.md",
     "note/编程/框架学习/netty/初识 Netty.md",
+    "note/编程/框架学习/netty/IO模型.md",
+    "note/编程/框架学习/netty/Reactor 模型.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
     "note/想法/自我/我是谁.md",
