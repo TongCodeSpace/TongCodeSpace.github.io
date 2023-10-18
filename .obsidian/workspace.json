@@ -216,10 +216,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca5251e797434522",
+  "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/想法/记录/什么是一个好的数字花园.md",
+    "note/编程/框架学习/netty/Reactor 模型.md",
+    "note/编程/框架学习/netty/IO模型.md",
     "note/编程/框架学习/netty/初识 Netty.md",
+    "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
     "note/想法/自我/我是谁.md",
     "note/想法/记录/什么是一个好的技术方案.md",
@@ -251,9 +253,7 @@
     "note/生活/moment/记见许知远.md",
     "CNAME",
     "_site/note/编程/从Lombok开始看@Slf4j.md",
-    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "sidebar.html",
-    "readme.md",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
