@@ -88,7 +88,7 @@
               "type": "markdown",
               "state": {
                 "file": "note/编程/框架学习/netty/IO模型.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -245,8 +245,9 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/想法/自我/未命名.md",
+    "截屏2023-10-19 16.19.41.png.md",
     "note/编程/框架学习/netty/IO模型.md",
+    "note/想法/自我/未命名.md",
     "note/编程/框架学习/netty/初识 Netty.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
     "note/想法/记录/什么是一个好的数字花园.md",
@@ -278,7 +279,6 @@
     "dest",
     "search.json",
     "note/编程/搜索引擎/ElasticSearch.md",
-    "note/生活/moment/记见许知远.md",
     "CNAME",
     "sidebar.html",
     "thumbnail.png",
