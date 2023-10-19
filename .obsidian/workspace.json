@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/自我/未命名.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/自我/未命名.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/自我/未命名.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/自我/未命名.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/自我/未命名.md"
+                "file": "note/编程/框架学习/netty/IO模型.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/自我/未命名.md"
+                "file": "note/编程/框架学习/netty/IO模型.md"
               }
             }
           }
@@ -245,8 +245,8 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/编程/框架学习/netty/IO模型.md",
     "note/想法/自我/未命名.md",
+    "note/编程/框架学习/netty/IO模型.md",
     "note/编程/框架学习/netty/初识 Netty.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
     "note/想法/记录/什么是一个好的数字花园.md",
