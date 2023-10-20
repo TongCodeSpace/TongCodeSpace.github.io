@@ -43,7 +43,7 @@
                 "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             },
             "group": "fabff1a7d1849d8c"

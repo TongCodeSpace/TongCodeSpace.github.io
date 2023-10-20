@@ -14,7 +14,8 @@ I/O 流全拼 Input/Output stream，也就是我们常说的输入输出流。�
 1. 等待数据准备好
 2. 从内核态拷贝到用户态
 
-在《Linux 内核第一卷》这部书中有介绍 5 种 IO 模型，包括阻塞型 IO，非阻塞型 IO，多路复用 IO，信号驱动 IO，异步 IO，但是我认为这样的分类不太合理，因此会添加一种 IO 类型，同步 IO。
+在《Linux 内核第一卷》这部书中有介绍 5 种 IO 模型，包括阻塞型 IO，非阻塞型 IO，多路复用 IO，信号驱动 IO，异步 IO。
+
 ### 阻塞型 IO 模型
 ![阻塞IO.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-10-19%2016.19.41.png)
 
@@ -25,22 +26,27 @@ I/O 流全拼 Input/Output stream，也就是我们常说的输入输出流。�
 ![非阻塞IO.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data20231019163403.png)
 非阻塞 IO 和阻塞 IO 最大的不同点是在于等待数据的过程，拷贝的过程并无不同
 
-在等待数据时，非阻塞 IO 会不停地轮询内核，查看是否准备好，直到数据准备好，这也是非常消耗 CPU 的，但是性能很高，因为线程不会停滞于此，可以去做一些其他的事情
+在等待数据时，非阻塞 IO 会不停地轮询内核，查看是否准备好，直到数据准备好，这也是非常消耗 CPU 的，但是性能很高，因为线程不会停滞于此，可以去做一些其他的事情 
 
 > [!note]
 > **阻塞 IO 还是非阻塞 IO 区别主要体现在数据准备阶段，同步 IO 和异步 IO 的区别主要体现在数据拷贝阶段**
 
 
-### 同步 IO 模型
+### 同步 IO VS 异步 IO
 其实上面提到的两种 IO 模型都属于同步 IO 模型，**同步**和**异步**主要看请求发起方对消息结果的获取方式，是**主动获取**还是**被动通知**
 
-### 异步 IO 模型
 ### 多路复用 IO 模型
+![异步IO.png](https://cdn.jsdelivr.net/gh/TongCodeSpace/picForBlog@master/data%E6%88%AA%E5%B1%8F2023-10-20%2017.29.49.png)
+
+复用 IO 会阻塞于 select ，等待数据报准备好，然后调用 revfrom 将数据拷贝到用户态，从图上来看和阻塞 IO 模型没什么区别，但是使用 select 可以等待多个数据报准备好
+
 ### 信号驱动 IO 模型
+
+### 异步 IO 模型
+
 
 
 **注意**：
-
 
 $$阻塞型 IO \bigcup 非阻塞型 IO = 所有 IO 类型$$
 
