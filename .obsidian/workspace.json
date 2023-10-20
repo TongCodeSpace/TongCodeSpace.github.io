@@ -19,8 +19,7 @@
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "822bcc55b59179fe"
+            }
           },
           {
             "id": "4d0746a3912fc4bb",
@@ -46,7 +45,8 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "fabff1a7d1849d8c"
           },
           {
             "id": "367b6b6b862bea7d",
@@ -114,13 +114,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md",
+                "file": "note/编程/框架学习/netty/IO模型.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "822bcc55b59179fe"
+            "group": "fabff1a7d1849d8c"
           }
         ]
       }
