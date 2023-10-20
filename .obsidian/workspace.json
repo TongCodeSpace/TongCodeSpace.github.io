@@ -14,13 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
             "group": "822bcc55b59179fe"
+          },
+          {
+            "id": "4d0746a3912fc4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f543819d3bf47f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/框架学习/netty/IO模型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           },
           {
             "id": "367b6b6b862bea7d",
@@ -74,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e8ddf21560c7cffa",
@@ -87,8 +114,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
-                "mode": "source",
+                "file": "note/编程/编程相关文章汇总.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -243,18 +270,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60c8dd972b0651a",
+  "active": "f543819d3bf47f2e",
   "lastOpenFiles": [
-    "截屏2023-10-19 16.19.41.png.md",
-    "note/编程/框架学习/netty/IO模型.md",
-    "note/想法/自我/未命名.md",
     "note/编程/框架学习/netty/初识 Netty.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/编程/框架学习/netty/IO模型.md",
+    "截屏2023-10-19 16.19.41.png.md",
+    "note/想法/自我/未命名.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
     "note/想法/自我/我是谁.md",
     "note/想法/记录/什么是一个好的技术方案.md",
-    "note/编程/编程相关文章汇总.md",
     "note/Aboutme.md",
     "push.md",
     "index.md",
