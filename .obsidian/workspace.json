@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/初识 Netty.md",
+                "file": "note/编程/框架学习/netty/初识Netty.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/netty/IO模型.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           }
@@ -272,7 +272,7 @@
   },
   "active": "f543819d3bf47f2e",
   "lastOpenFiles": [
-    "note/编程/框架学习/netty/初识 Netty.md",
+    "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/netty/IO模型.md",
     "截屏2023-10-19 16.19.41.png.md",
