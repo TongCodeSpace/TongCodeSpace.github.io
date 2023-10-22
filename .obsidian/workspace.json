@@ -56,7 +56,7 @@
                 "file": "note/生活/旅行/济州岛之行.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             },
             "group": "4dd8eec6cb10a672"
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
