@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md",
+                "file": "note/生活/生活.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md",
+                "file": "note/生活/生活.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md",
+                "file": "note/生活/生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md",
+                "file": "note/生活/生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md"
+                "file": "note/生活/生活.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/旅行/济州岛之行.md"
+                "file": "note/生活/生活.md"
               }
             }
           }
@@ -259,6 +259,8 @@
   },
   "active": "139e683c45aa0e25",
   "lastOpenFiles": [
+    "note/想法/记录/什么是一个好的技术方案.md",
+    "note/生活/旅行/济州岛之行.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/框架学习/netty/IO模型.md",
@@ -268,7 +270,6 @@
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
     "note/想法/自我/我是谁.md",
-    "note/想法/记录/什么是一个好的技术方案.md",
     "note/Aboutme.md",
     "push.md",
     "index.md",
@@ -292,7 +293,6 @@
     "dest/simple-jekyll-search.js",
     "dest",
     "search.json",
-    "note/编程/搜索引擎/ElasticSearch.md",
     "CNAME",
     "sidebar.html",
     "thumbnail.png",
