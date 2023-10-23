@@ -6,7 +6,7 @@
       {
         "id": "a31659287f568c54",
         "type": "tabs",
-        "dimension": 73.82671480144406,
+        "dimension": 75.81227436823104,
         "children": [
           {
             "id": "b60c8dd972b0651a",
@@ -27,76 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/netty/初识Netty.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f543819d3bf47f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/编程/框架学习/netty/初识Netty.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "139e683c45aa0e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "note/编程/框架学习/策略模型/规则引擎.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "4dd8eec6cb10a672"
-          },
-          {
-            "id": "4ddc490efc836f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/想法/think.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2cf296457236c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            "group": "a43eff0398baa719"
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "b57e893173600801",
+        "id": "11f6d1f99c04fe97",
         "type": "tabs",
-        "dimension": 26.173285198555956,
+        "dimension": 24.187725631768952,
         "children": [
           {
-            "id": "87d4fc62c5cce185",
+            "id": "9c5d18a5bcc2a15d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,10 +52,10 @@
                 "file": "note/编程/框架学习/策略模型/规则引擎.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             },
-            "group": "4dd8eec6cb10a672"
+            "group": "a43eff0398baa719"
           }
         ]
       }
@@ -257,29 +205,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "139e683c45aa0e25",
+  "active": "4d0746a3912fc4bb",
   "lastOpenFiles": [
-    "note/编程/编程相关文章汇总.md",
+    "note/编程/框架学习/netty/初识Netty.md",
+    "note/想法/think.md",
+    "README.md",
+    "push.md",
+    "note/想法/自我/让自己过的更好.md",
+    "note/想法/自我/我是谁.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
+    "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/策略模型",
     "note/生活/生活.md",
     "note/想法/记录/什么是一个好的技术方案.md",
     "note/生活/旅行/济州岛之行.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
-    "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/框架学习/netty/IO模型.md",
     "截屏2023-10-19 16.19.41.png.md",
-    "note/想法/自我/未命名.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
-    "note/想法/自我/我是谁.md",
     "note/Aboutme.md",
-    "push.md",
     "index.md",
-    "README.md",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/多线程/守护线程.md",
-    "note/想法/think.md",
     "note/复盘/复盘总结.md",
     "note/复盘/工作/低级BUG复盘.md",
     "note/复盘/工作/转正答辩.md",
