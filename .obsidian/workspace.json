@@ -6,7 +6,6 @@
       {
         "id": "a31659287f568c54",
         "type": "tabs",
-        "dimension": 75.81227436823104,
         "children": [
           {
             "id": "b60c8dd972b0651a",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md",
+                "file": "note/Aboutme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,37 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "a43eff0398baa719"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "11f6d1f99c04fe97",
-        "type": "tabs",
-        "dimension": 24.187725631768952,
-        "children": [
+            }
+          },
           {
-            "id": "9c5d18a5bcc2a15d",
+            "id": "dca0ab68d242be16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md",
-                "mode": "preview",
+                "file": "note/收集箱/待浇灌.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "a43eff0398baa719"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md",
+                "file": "note/收集箱/待浇灌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md",
+                "file": "note/收集箱/待浇灌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md"
+                "file": "note/收集箱/待浇灌.md"
               }
             }
           },
@@ -183,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/框架学习/策略模型/规则引擎.md"
+                "file": "note/收集箱/待浇灌.md"
               }
             }
           }
@@ -205,16 +195,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d0746a3912fc4bb",
+  "active": "dca0ab68d242be16",
   "lastOpenFiles": [
+    "note/收集箱/待浇灌.md",
+    "note/收集箱",
+    "note/Aboutme.md",
+    "note/编程/编程相关文章汇总.md",
+    "index.md",
+    "note/编程/框架学习/策略模型/规则引擎.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "note/想法/think.md",
     "README.md",
     "push.md",
     "note/想法/自我/让自己过的更好.md",
     "note/想法/自我/我是谁.md",
-    "note/编程/框架学习/策略模型/规则引擎.md",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/策略模型",
     "note/生活/生活.md",
     "note/想法/记录/什么是一个好的技术方案.md",
@@ -224,8 +218,6 @@
     "截屏2023-10-19 16.19.41.png.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
-    "note/Aboutme.md",
-    "index.md",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/多线程/守护线程.md",
     "note/复盘/复盘总结.md",
@@ -237,12 +229,10 @@
     "note/想法/羁绊",
     "note/想法/自我",
     "note/生活/moment/10月-节后第一天上班.md",
-    "_site/docs/SUPPORT.md",
     "dest/simple-jekyll-search.min.js",
     "dest/simple-jekyll-search.js",
     "dest",
     "search.json",
-    "CNAME",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
