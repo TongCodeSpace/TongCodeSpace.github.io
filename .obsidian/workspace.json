@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/收集箱/待浇灌.md"
+                "file": "index.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/收集箱/待浇灌.md"
+                "file": "index.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
-    "note/复盘/阶段/2023年度复盘.md",
     "note/收集箱/待浇灌.md",
+    "note/复盘/阶段/2023年度复盘.md",
     "note/Aboutme.md",
     "note/编程/业务/数据库表设计.md",
     "note/编程/业务",
