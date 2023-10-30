@@ -6,6 +6,7 @@
       {
         "id": "a31659287f568c54",
         "type": "tabs",
+        "dimension": 54.69314079422383,
         "children": [
           {
             "id": "b60c8dd972b0651a",
@@ -70,7 +71,8 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "ed73b35eb935ebdf"
           },
           {
             "id": "1f8fcd5145d01fb9",
@@ -86,7 +88,28 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "3eb3c0a89da075aa",
+        "type": "tabs",
+        "dimension": 45.30685920577617,
+        "children": [
+          {
+            "id": "04e52a4c46a6f077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/业务/数据库表设计.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "ed73b35eb935ebdf"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/编程/业务/数据库表设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/编程/业务/数据库表设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/编程/业务/数据库表设计.md"
               }
             }
           },
@@ -212,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/编程/业务/数据库表设计.md"
               }
             }
           }
@@ -234,10 +257,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1cfb83a5fdb9b106",
+  "active": "dca0ab68d242be16",
   "lastOpenFiles": [
-    "note/生活/期望/2024年规划.md",
     "note/复盘/阶段/2023年度复盘.md",
+    "note/生活/期望/2024年规划.md",
     "note/生活/期望",
     "note/收集箱/待浇灌.md",
     "index.md",
