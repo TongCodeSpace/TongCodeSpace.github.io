@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "1cfb83a5fdb9b106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/复盘/阶段/2023年度复盘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e9ca76c299b4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/复盘/阶段/2023年度复盘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d0746a3912fc4bb",
             "type": "leaf",
             "state": {
@@ -59,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/复盘/阶段/2023年度复盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/复盘/阶段/2023年度复盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/复盘/阶段/2023年度复盘.md"
               }
             }
           },
@@ -185,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "note/复盘/阶段/2023年度复盘.md"
               }
             }
           }
@@ -207,17 +234,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60c8dd972b0651a",
+  "active": "1cfb83a5fdb9b106",
   "lastOpenFiles": [
     "note/收集箱/待浇灌.md",
     "note/复盘/阶段/2023年度复盘.md",
+    "index.md",
     "note/Aboutme.md",
     "note/编程/业务/数据库表设计.md",
     "note/编程/业务",
     "note/复盘/工作/做一次技术负责人.md",
     "note/想法/think.md",
     "note/复盘/复盘总结.md",
-    "index.md",
     "note/收集箱",
     "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
