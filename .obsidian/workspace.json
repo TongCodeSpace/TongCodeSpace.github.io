@@ -48,25 +48,12 @@
             }
           },
           {
-            "id": "4d0746a3912fc4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dca0ab68d242be16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/生活/读书/阅读书单.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "3eb3c0a89da075aa",
@@ -101,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/生活/读书/阅读书单.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -257,14 +244,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dca0ab68d242be16",
+  "active": "c0e9ca76c299b4fe",
   "lastOpenFiles": [
+    "index.md",
+    "note/生活/读书/阅读书单.md",
+    "note/复盘/阶段/2023年度复盘.md",
+    "note/生活/读书",
     "note/收集箱/待浇灌.md",
     "note/编程/业务/数据库表设计.md",
-    "note/复盘/阶段/2023年度复盘.md",
     "note/生活/期望/2024年规划.md",
     "note/生活/期望",
-    "index.md",
     "note/Aboutme.md",
     "note/编程/业务",
     "note/复盘/工作/做一次技术负责人.md",
@@ -289,12 +278,10 @@
     "note/编程/框架学习/netty",
     "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/编程/多线程/守护线程.md",
-    "note/复盘/工作/低级BUG复盘.md",
     "note/想法/社会",
     "note/想法/羁绊",
     "note/想法/自我",
     "dest/simple-jekyll-search.min.js",
-    "dest/simple-jekyll-search.js",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
