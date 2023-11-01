@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "note/收集箱/待浇灌.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3eb3c0a89da075aa",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/收集箱/待浇灌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/收集箱/待浇灌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/收集箱/待浇灌.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/收集箱/待浇灌.md"
               }
             }
           }
@@ -260,7 +259,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "71c04ae3ae787f22",
+  "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
     "index.md",
     "note/生活/读书/阅读书单.md",
