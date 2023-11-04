@@ -12,8 +12,26 @@
             "id": "b60c8dd972b0651a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/Aboutme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49326c3c77c5d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/想法/自我/三观.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -69,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3eb3c0a89da075aa",
@@ -156,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/想法/自我/三观.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/想法/自我/三观.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/想法/自我/三观.md"
+              }
             }
           },
           {
@@ -211,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "note/想法/自我/三观.md"
+              }
             }
           }
         ],
@@ -232,8 +257,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b60c8dd972b0651a",
+  "active": "e49326c3c77c5d6c",
   "lastOpenFiles": [
+    "note/Aboutme.md",
+    "note/想法/自我/三观.md",
     "note/生活/读书/阅读书单.md",
     "note/生活/读书/书评/国王的游戏.md",
     "note/收集箱/待浇灌.md",
@@ -244,7 +271,6 @@
     "note/编程/业务/数据库表设计.md",
     "note/生活/期望/2024年规划.md",
     "note/生活/期望",
-    "note/Aboutme.md",
     "note/编程/业务",
     "note/复盘/工作/做一次技术负责人.md",
     "note/想法/think.md",
@@ -266,7 +292,6 @@
     "截屏2023-10-19 16.19.41.png.md",
     "note/想法/记录/什么是一个好的数字花园.md",
     "note/编程/框架学习/netty",
-    "note/编程/框架学习/雪花算法/雪花算法重复主键问题分析.md",
     "note/想法/社会",
     "note/想法/羁绊",
     "note/想法/自我",
