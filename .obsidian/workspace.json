@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次技术负责人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "输出",
+                "query": "技术负责",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次技术负责人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/自我/我是谁.md",
+                "file": "note/复盘/工作/做一次技术负责人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/自我/我是谁.md"
+                "file": "note/复盘/工作/做一次技术负责人.md"
               }
             }
           },
@@ -235,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/自我/我是谁.md"
+                "file": "note/复盘/工作/做一次技术负责人.md"
               }
             }
           }
@@ -259,6 +260,11 @@
   },
   "active": "e49326c3c77c5d6c",
   "lastOpenFiles": [
+    "index.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/复盘/复盘总结.md",
+    "note/想法/think.md",
+    "note/想法/自我/我是谁.md",
     "note/想法/自我/让自己过的更好.md",
     "note/想法/自我/三观.md",
     "note/Aboutme.md",
@@ -266,7 +272,6 @@
     "note/生活/读书/书评/国王的游戏.md",
     "note/收集箱/待浇灌.md",
     "note/生活/读书/书评",
-    "index.md",
     "note/复盘/阶段/2023年度复盘.md",
     "note/生活/读书",
     "note/编程/业务/数据库表设计.md",
@@ -274,15 +279,11 @@
     "note/生活/期望",
     "note/编程/业务",
     "note/复盘/工作/做一次技术负责人.md",
-    "note/想法/think.md",
-    "note/复盘/复盘总结.md",
     "note/收集箱",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "README.md",
     "push.md",
-    "note/想法/自我/我是谁.md",
     "note/编程/框架学习/策略模型",
     "note/生活/生活.md",
     "note/想法/记录/什么是一个好的技术方案.md",
