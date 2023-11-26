@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/工作/做一次技术负责人.md",
+                "file": "note/生活/生活.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/工作/做一次技术负责人.md",
+                "file": "note/生活/生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/工作/做一次技术负责人.md",
+                "file": "note/生活/生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/工作/做一次技术负责人.md"
+                "file": "note/生活/生活.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/工作/做一次技术负责人.md"
+                "file": "note/生活/生活.md"
               }
             }
           }
@@ -259,11 +259,11 @@
   },
   "active": "e49326c3c77c5d6c",
   "lastOpenFiles": [
+    "note/复盘/工作/做一次技术负责人.md",
     "note/生活/读书/阅读书单.md",
     "note/想法/自我/三观.md",
     "note/Aboutme.md",
     "index.md",
-    "note/复盘/工作/做一次技术负责人.md",
     "未命名.canvas",
     "note/编程/编程相关文章汇总.md",
     "note/复盘/复盘总结.md",
