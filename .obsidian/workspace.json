@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/复盘/阶段/2023年度复盘.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c1878525c6a34b2",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/复盘/阶段/2023年度复盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/复盘/阶段/2023年度复盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md"
+                "file": "note/复盘/阶段/2023年度复盘.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md"
+                "file": "note/复盘/阶段/2023年度复盘.md"
               }
             }
           }
@@ -225,8 +224,8 @@
   },
   "active": "1f8fcd5145d01fb9",
   "lastOpenFiles": [
-    "note/生活/旅行/济州岛之行.md",
     "note/生活/旅行/HongKong 旅行计划.md",
+    "note/生活/旅行/济州岛之行.md",
     "note/复盘/工作/做一次技术负责人.md",
     "note/Aboutme.md",
     "note/生活/生活.md",
