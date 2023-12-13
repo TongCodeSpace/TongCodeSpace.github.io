@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/生活/期望/2024年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
+                "file": "note/生活/期望/2024年规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/生活/期望/2024年规划.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md"
+                "file": "note/生活/期望/2024年规划.md"
               }
             }
           }
@@ -222,11 +222,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c0e9ca76c299b4fe",
+  "active": "1f8fcd5145d01fb9",
   "lastOpenFiles": [
+    "note/复盘/阶段/2023年度复盘.md",
     "note/生活/读书/阅读书单.md",
     "note/生活/期望/2024年规划.md",
-    "note/复盘/阶段/2023年度复盘.md",
     "note/生活/旅行/HongKong 旅行计划.md",
     "note/生活/旅行/济州岛之行.md",
     "note/复盘/工作/做一次技术负责人.md",
