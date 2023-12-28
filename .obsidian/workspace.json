@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "note/想法/自我/三观.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "note/想法/自我/三观.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Aboutme.md",
+                "file": "note/想法/自我/三观.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "note/想法/自我/三观.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/Aboutme.md"
+                "file": "note/想法/自我/三观.md"
               }
             }
           }
@@ -212,9 +212,9 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/Aboutme.md",
     "push.md",
     "note/生活/期望/2024年规划.md",
-    "note/Aboutme.md",
     "note/复盘/阶段/2023年度复盘.md",
     "note/生活/读书/阅读书单.md",
     "note/生活/旅行/HongKong 旅行计划.md",
