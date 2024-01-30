@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74c17bbd3fed1a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/生活/旅行/济州岛之行.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e9ca76c299b4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/复盘/阶段/2023年度复盘.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca0ab68d242be16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/生活/读书/阅读书单.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f8fcd5145d01fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/生活/期望/2024年规划.md",
+                "file": "note/想法/工作/困惑.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
+                "file": "note/想法/工作/困惑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/收集箱/待浇灌.md",
+                "file": "note/想法/工作/困惑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/收集箱/待浇灌.md"
+                "file": "note/想法/工作/困惑.md"
               }
             }
           },
@@ -201,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/收集箱/待浇灌.md"
+                "file": "note/想法/工作/困惑.md"
               }
             }
           }
@@ -224,8 +171,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "6aeb6f0611f0cd6f",
+  "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/想法/think.md",
+    "note/想法/工作/困惑.md",
+    "note/想法/工作",
     "note/收集箱/待浇灌.md",
     "note/复盘/工作/做一次技术负责人.md",
     "note/生活/生活.md",
@@ -241,7 +191,6 @@
     "未命名.canvas",
     "note/编程/编程相关文章汇总.md",
     "note/复盘/复盘总结.md",
-    "note/想法/think.md",
     "note/想法/自我/我是谁.md",
     "note/想法/自我/让自己过的更好.md",
     "note/生活/读书/书评/国王的游戏.md",
@@ -258,11 +207,9 @@
     "note/想法/记录/什么是一个好的技术方案.md",
     "note/编程/框架学习/netty/Reactor 模型.md",
     "note/编程/框架学习/netty/IO模型.md",
-    "截屏2023-10-19 16.19.41.png.md",
     "note/编程/框架学习/netty",
     "note/想法/社会",
     "note/想法/羁绊",
-    "note/想法/自我",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
