@@ -79,5 +79,6 @@
   "blue-topaz-theme@@unresolved-link@@light": "#83C127",
   "blue-topaz-theme@@h4-size": "1.2075em",
   "blue-topaz-theme@@h2-size": "1.6375em",
-  "blue-topaz-theme@@accent-strong@@dark": "#639500"
+  "blue-topaz-theme@@accent-strong@@dark": "#639500",
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default"
 }
