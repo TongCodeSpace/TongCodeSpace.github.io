@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/想法/工作/困惑.md",
+                "file": "note/编程/Java基础/泛型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c1878525c6a34b2",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/工作/困惑.md",
+                "file": "note/编程/Java基础/泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/工作/困惑.md",
+                "file": "note/编程/Java基础/泛型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/工作/困惑.md"
+                "file": "note/编程/Java基础/泛型.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/工作/困惑.md"
+                "file": "note/编程/Java基础/泛型.md"
               }
             }
           }
@@ -173,6 +174,9 @@
   },
   "active": "b60c8dd972b0651a",
   "lastOpenFiles": [
+    "note/想法/工作/困惑.md",
+    "note/编程/Java基础/泛型.md",
+    "note/编程/Java基础",
     "note/复盘/阶段/2023年度征文.md",
     "note/Aboutme.md",
     "note/想法/自我/我是谁.md",
@@ -188,7 +192,6 @@
     "note/生活/读书/书评/国王的游戏.md",
     "note/生活/读书/2024年读书.md",
     "note/生活/读书/阅读书单.md",
-    "note/想法/工作/困惑.md",
     "note/想法/工作",
     "note/收集箱/待浇灌.md",
     "note/复盘/工作/做一次技术负责人.md",
@@ -205,11 +208,9 @@
     "note/生活/期望",
     "note/编程/业务",
     "note/收集箱",
-    "note/编程/框架学习/策略模型/规则引擎.md",
     "note/编程/框架学习/策略模型",
     "note/编程/框架学习/netty",
     "note/想法/社会",
-    "note/想法/羁绊",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
