@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c1878525c6a34b2",
@@ -174,7 +173,9 @@
   },
   "active": "501b0c86621a2043",
   "lastOpenFiles": [
+    "note/编程/框架学习/从Lombok开始看@Slf4j.md",
     "note/编程/Java基础/泛型.md",
+    "note/编程/业务/数据库表设计.md",
     "note/想法/工作/困惑.md",
     "note/编程/Java基础",
     "note/复盘/阶段/2023年度征文.md",
@@ -201,10 +202,8 @@
     "index.md",
     "未命名.canvas",
     "note/编程/编程相关文章汇总.md",
-    "note/复盘/复盘总结.md",
     "note/生活/读书/书评",
     "note/生活/读书",
-    "note/编程/业务/数据库表设计.md",
     "note/生活/期望",
     "note/编程/业务",
     "note/收集箱",
