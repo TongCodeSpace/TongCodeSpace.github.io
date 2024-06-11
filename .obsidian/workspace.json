@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "203c0a6823d6319a",
+        "id": "2272cc11070a55fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f75e5cd8d1d5c6b3",
+            "id": "b058df4e73df4a62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/想法/自我/三观.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/想法/自我/三观.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md",
+                "file": "note/想法/自我/三观.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md"
+                "file": "note/想法/自我/三观.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/旅行/HongKong 旅行计划.md"
+                "file": "note/想法/自我/三观.md"
               }
             }
           }
@@ -170,16 +170,16 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "f75e5cd8d1d5c6b3",
+  "active": "b058df4e73df4a62",
   "lastOpenFiles": [
+    "note/Aboutme.md",
+    "README.md",
+    "push.md",
+    "index.md",
     "note/生活/旅行/HongKong 旅行计划.md",
     "note/生活/旅行/济州岛之行.md",
     "Location added on 2024-05-27T23-14.md",
-    "index.md",
-    "README.md",
-    "push.md",
     "note/生活/工作/2024/2024工作之变动.md",
-    "note/Aboutme.md",
     "note/生活/工作/2024",
     "note/生活/工作",
     "note/想法/think.md",
