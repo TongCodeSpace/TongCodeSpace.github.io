@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "note/编程/技术方案/数据流图怎么画.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bd82c72b3027711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "note/编程/技术方案/数据流图怎么画.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "note/编程/技术方案/数据流图怎么画.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "note/编程/技术方案/数据流图怎么画.md"
               }
             }
           },
@@ -148,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "note/编程/技术方案/数据流图怎么画.md"
               }
             }
           }
@@ -172,6 +185,12 @@
   },
   "active": "48a5e3f90c72a612",
   "lastOpenFiles": [
+    "index.md",
+    "note/编程/技术方案/数据流图怎么画.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/编程/框架学习/netty/初识Netty.md",
+    "note/编程/技术方案",
+    "note/编程/多线程/守护线程.md",
     "push.md",
     "note/生活/期望/2024年规划.md",
     "note/生活/lifeHome.md",
@@ -191,15 +210,10 @@
     "note/想法/自我/三观.md",
     "note/Aboutme.md",
     "README.md",
-    "index.md",
     "note/生活/旅行/HongKong 旅行计划.md",
     "note/生活/旅行/济州岛之行.md",
-    "Location added on 2024-05-27T23-14.md",
     "note/生活/工作/2024",
     "note/生活/工作",
-    "note/编程/业务/延时任务的处理.md",
-    "note/编程/业务/数据库表设计.md",
-    "note/编程/Java基础/泛型.md",
     "note/编程/Java基础",
     "note/想法/工作",
     "未命名.canvas",
@@ -208,7 +222,6 @@
     "note/生活/期望",
     "note/编程/业务",
     "note/收集箱",
-    "note/编程/框架学习/策略模型",
     "thumbnail.png",
     "assets/img/logo.png",
     "assets/img/log.png",
