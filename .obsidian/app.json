@@ -3,5 +3,11 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "_layouts/",
+    "_sass/",
+    "_site/",
+    "_includes/"
+  ]
 }
