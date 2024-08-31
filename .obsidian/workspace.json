@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/Java基础/多线程 addAll 问题.md",
+                "file": "note/Aboutme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/Java基础/多线程 addAll 问题.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/Java基础/多线程 addAll 问题.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/Java基础/多线程 addAll 问题.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           },
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/Java基础/多线程 addAll 问题.md"
+                "file": "note/编程/编程相关文章汇总.md"
               }
             }
           }
@@ -197,19 +196,23 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "7c72a44922d6f693",
+  "active": "48a5e3f90c72a612",
   "lastOpenFiles": [
-    "note/编程/Java基础/泛型.md",
-    "note/编程/Java基础/多线程 addAll 问题.md",
+    "note/编程/Java基础/多线程addAll问题.md",
     "note/编程/编程相关文章汇总.md",
-    "note/编程/技术方案/数据流图怎么画.md",
+    "note/Aboutme.md",
+    "note/想法/自我/三观.md",
     "index.md",
+    "note/收集箱/待浇灌.md",
+    "note/编程/框架学习/策略模型/规则引擎.md",
+    "note/生活/lifeHome.md",
+    "note/编程/Java基础/泛型.md",
+    "note/编程/技术方案/数据流图怎么画.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/技术方案",
     "note/编程/多线程/守护线程.md",
     "push.md",
     "note/生活/期望/2024年规划.md",
-    "note/生活/lifeHome.md",
     "note/想法/记录/什么是一个好的技术方案.md",
     "note/复盘/工作/做一次技术负责人.md",
     "note/复盘/阶段/2024上半年复盘.md",
@@ -217,15 +220,11 @@
     "note/复盘/复盘总结.md",
     "note/想法/think.md",
     "note/想法/记录/什么是一个好的数字花园.md",
-    "note/收集箱/待浇灌.md",
     "note/生活/工作/2024/2024工作之变动.md",
     "note/生活/读书/2024年读书.md",
     "note/生活/读书/阅读书单.md",
     "note/生活/读书/书评/扶桑.md",
     "note/生活/读书/书评/国王的游戏.md",
-    "note/想法/自我/三观.md",
-    "note/Aboutme.md",
-    "README.md",
     "note/生活/工作/2024",
     "note/生活/工作",
     "note/编程/Java基础",

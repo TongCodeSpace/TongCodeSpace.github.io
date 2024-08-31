@@ -100,5 +100,11 @@
   "Appearance-light@@border-radius-activated-tab-header-light": "0px",
   "Appearance-light@@background-activated-tab-header-light": "transparent",
   "Appearance-light@@shadow-activated-tab-header-light": "0px 2px 0px var(--color-accent)",
-  "Appearance-light@@workspace-divider-transparent-light": true
+  "Appearance-light@@workspace-divider-transparent-light": true,
+  "Components@@outline-enhanced": true,
+  "Editor@@h1-divider-on": true,
+  "Editor@@h2-divider-on": true,
+  "Editor@@h2-size": "1.5em",
+  "Editor@@h1-size": "1.8em",
+  "Editor@@h1-color-select": "h1-color-designated"
 }
