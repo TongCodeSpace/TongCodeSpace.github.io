@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/技术方案/数据流图怎么画.md",
+                "file": "note/编程/编程相关文章汇总.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c72a44922d6f693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/Java基础/多线程 addAll 问题.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/技术方案/数据流图怎么画.md",
+                "file": "note/编程/Java基础/多线程 addAll 问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/技术方案/数据流图怎么画.md",
+                "file": "note/编程/Java基础/多线程 addAll 问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/技术方案/数据流图怎么画.md"
+                "file": "note/编程/Java基础/多线程 addAll 问题.md"
               }
             }
           },
@@ -161,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/技术方案/数据流图怎么画.md"
+                "file": "note/编程/Java基础/多线程 addAll 问题.md"
               }
             }
           }
@@ -183,11 +197,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "48a5e3f90c72a612",
+  "active": "7c72a44922d6f693",
   "lastOpenFiles": [
-    "index.md",
-    "note/编程/技术方案/数据流图怎么画.md",
+    "note/编程/Java基础/泛型.md",
+    "note/编程/Java基础/多线程 addAll 问题.md",
     "note/编程/编程相关文章汇总.md",
+    "note/编程/技术方案/数据流图怎么画.md",
+    "index.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/技术方案",
     "note/编程/多线程/守护线程.md",
@@ -210,8 +226,6 @@
     "note/想法/自我/三观.md",
     "note/Aboutme.md",
     "README.md",
-    "note/生活/旅行/HongKong 旅行计划.md",
-    "note/生活/旅行/济州岛之行.md",
     "note/生活/工作/2024",
     "note/生活/工作",
     "note/编程/Java基础",
