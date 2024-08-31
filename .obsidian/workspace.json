@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/编程/编程相关文章汇总.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           }
@@ -198,8 +198,16 @@
   },
   "active": "48a5e3f90c72a612",
   "lastOpenFiles": [
-    "note/编程/Java基础/多线程addAll问题.md",
+    "note/生活/读书/书评/认知觉醒.md",
+    "note/生活/读书/书评/国王的游戏.md",
+    "note/生活/读书/书评/扶桑.md",
+    "note/生活/读书/2024年读书.md",
+    "note/想法/自我/我是谁.md",
+    "note/想法/think.md",
+    "note/生活/爱好/自行车.md",
+    "note/编程/开源计划/今年的开源计划.md",
     "note/编程/编程相关文章汇总.md",
+    "note/编程/Java基础/多线程addAll问题.md",
     "note/Aboutme.md",
     "note/想法/自我/三观.md",
     "index.md",
@@ -217,14 +225,6 @@
     "note/复盘/工作/做一次技术负责人.md",
     "note/复盘/阶段/2024上半年复盘.md",
     "note/复盘/阶段/2023年度复盘.md",
-    "note/复盘/复盘总结.md",
-    "note/想法/think.md",
-    "note/想法/记录/什么是一个好的数字花园.md",
-    "note/生活/工作/2024/2024工作之变动.md",
-    "note/生活/读书/2024年读书.md",
-    "note/生活/读书/阅读书单.md",
-    "note/生活/读书/书评/扶桑.md",
-    "note/生活/读书/书评/国王的游戏.md",
     "note/生活/工作/2024",
     "note/生活/工作",
     "note/编程/Java基础",
