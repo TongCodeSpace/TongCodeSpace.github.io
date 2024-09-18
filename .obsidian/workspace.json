@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/读书/书评/迷宫中的恋人.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/读书/书评/迷宫中的恋人.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/读书/书评/迷宫中的恋人.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/读书/书评/迷宫中的恋人.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           }
@@ -249,10 +249,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "500bcf6490d57634",
+  "active": "4f388ca493e58b90",
   "lastOpenFiles": [
-    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
+    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/认知觉醒.md",
     "note/生活/读书/书评/国王的游戏.md",
     "note/生活/读书/书评/扶桑.md",
