@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/期望/2024年规划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/期望/2024年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/期望/2024年规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/读书/2024年读书.md"
+                "file": "note/生活/期望/2024年规划.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/读书/2024年读书.md"
+                "file": "note/生活/期望/2024年规划.md"
               }
             }
           }
@@ -251,12 +251,13 @@
   },
   "active": "4f388ca493e58b90",
   "lastOpenFiles": [
+    "note/生活/lifeHome.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
-    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/认知觉醒.md",
+    "note/生活/读书/书评/写过，爱过，活过.md",
+    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/国王的游戏.md",
     "note/生活/读书/书评/扶桑.md",
-    "note/生活/lifeHome.md",
     "index.md",
     "note/编程/编程相关文章汇总.md",
     "note/编程/Java基础/多线程addAll问题.md",
@@ -278,7 +279,6 @@
     "note/编程/技术方案/数据流图怎么画.md",
     "note/编程/框架学习/netty/初识Netty.md",
     "note/编程/技术方案",
-    "note/编程/多线程/守护线程.md",
     "note/生活/工作/2024",
     "note/生活/工作",
     "note/编程/Java基础",
