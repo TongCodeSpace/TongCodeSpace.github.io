@@ -160,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/想法/think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/想法/think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/想法/think.md"
+              }
             }
           },
           {
@@ -217,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "note/想法/think.md"
+              }
             }
           }
         ],
