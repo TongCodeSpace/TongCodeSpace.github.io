@@ -39,19 +39,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/lifeHome.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4f388ca493e58b90",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -94,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/想法/think.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/想法/think.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/想法/think.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           },
@@ -222,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/想法/think.md"
+                "file": "note/生活/读书/2024年读书.md"
               }
             }
           }
@@ -244,14 +236,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "4f388ca493e58b90",
+  "active": "0728a440615faa63",
   "lastOpenFiles": [
+    "note/生活/读书/书评/面纱.md",
+    "note/生活/读书/书评/认知觉醒.md",
+    "note/生活/lifeHome.md",
     "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/扶桑.md",
     "note/生活/期望/2024年规划.md",
-    "note/生活/lifeHome.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
-    "note/生活/读书/书评/认知觉醒.md",
     "note/生活/读书/书评/写过，爱过，活过.md",
     "note/生活/读书/书评/国王的游戏.md",
     "index.md",
@@ -272,7 +265,6 @@
     "note/收集箱/待浇灌.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
     "note/编程/Java基础/泛型.md",
-    "note/编程/技术方案/数据流图怎么画.md",
     "note/编程/技术方案",
     "note/生活/工作/2024",
     "note/生活/工作",
