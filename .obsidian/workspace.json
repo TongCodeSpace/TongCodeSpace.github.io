@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/读书/书评/写过，爱过，活过.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/读书/书评/写过，爱过，活过.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/读书/2024年读书.md",
+                "file": "note/生活/读书/书评/写过，爱过，活过.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/读书/2024年读书.md"
+                "file": "note/生活/读书/书评/写过，爱过，活过.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/读书/2024年读书.md"
+                "file": "note/生活/读书/书评/写过，爱过，活过.md"
               }
             }
           }
@@ -238,14 +238,14 @@
   },
   "active": "0728a440615faa63",
   "lastOpenFiles": [
-    "note/生活/读书/书评/面纱.md",
     "note/生活/读书/书评/认知觉醒.md",
-    "note/生活/lifeHome.md",
+    "note/生活/读书/书评/写过，爱过，活过.md",
+    "note/生活/读书/书评/面纱.md",
     "note/生活/读书/2024年读书.md",
+    "note/生活/lifeHome.md",
     "note/生活/读书/书评/扶桑.md",
     "note/生活/期望/2024年规划.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
-    "note/生活/读书/书评/写过，爱过，活过.md",
     "note/生活/读书/书评/国王的游戏.md",
     "index.md",
     "note/编程/编程相关文章汇总.md",
