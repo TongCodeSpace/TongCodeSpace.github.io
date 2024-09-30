@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5252deaa4adc29d",
+        "id": "2cdde7f1dca521f2",
         "type": "tabs",
         "children": [
           {
-            "id": "48a5e3f90c72a612",
+            "id": "66cb02c9720c30a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/想法/think.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "628b3330e87a90f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0728a440615faa63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/生活/读书/书评/写过，爱过，活过.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "500bcf6490d57634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/生活/读书/书评/迷宫中的恋人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c72a44922d6f693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Aboutme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd82c72b3027711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/读书/书评/写过，爱过，活过.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/读书/书评/写过，爱过，活过.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/生活/读书/书评/写过，爱过，活过.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "note/生活/读书/书评/写过，爱过，活过.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -236,18 +159,18 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "0728a440615faa63",
+  "active": "66cb02c9720c30a4",
   "lastOpenFiles": [
+    "index.md",
+    "note/生活/读书/书评/写过，爱过，活过.md",
+    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
     "note/生活/读书/书评/面纱.md",
     "note/生活/读书/书评/认知觉醒.md",
-    "note/生活/读书/书评/写过，爱过，活过.md",
-    "note/生活/读书/2024年读书.md",
     "note/生活/lifeHome.md",
     "note/生活/读书/书评/扶桑.md",
     "note/生活/期望/2024年规划.md",
     "note/生活/读书/书评/国王的游戏.md",
-    "index.md",
     "note/编程/编程相关文章汇总.md",
     "note/编程/Java基础/多线程addAll问题.md",
     "assets/img/logo.png",
