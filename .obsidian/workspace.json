@@ -11,8 +11,15 @@
             "id": "66cb02c9720c30a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/生活/读书/书评/活过，爱过，写过.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "活过，爱过，写过"
             }
           }
         ]
@@ -35,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/生活/读书/书评/活过，爱过，写过.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "活过，爱过，写过 的反向链接列表"
             }
           },
           {
@@ -97,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/生活/读书/书评/活过，爱过，写过.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "活过，爱过，写过 的出链列表"
             }
           },
           {
@@ -110,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -118,7 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/生活/读书/书评/活过，爱过，写过.md"
+              },
+              "icon": "lucide-list",
+              "title": "活过，爱过，写过 的大纲"
             }
           },
           {
@@ -130,7 +155,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -138,7 +165,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "note/生活/读书/书评/活过，爱过，写过.md"
+              },
+              "icon": "lucide-info",
+              "title": "活过，爱过，写过的笔记属性"
             }
           }
         ],
@@ -161,9 +192,9 @@
   },
   "active": "66cb02c9720c30a4",
   "lastOpenFiles": [
-    "index.md",
-    "note/生活/读书/书评/写过，爱过，活过.md",
     "note/生活/读书/2024年读书.md",
+    "note/生活/读书/书评/活过，爱过，写过.md",
+    "index.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
     "note/生活/读书/书评/面纱.md",
     "note/生活/读书/书评/认知觉醒.md",
