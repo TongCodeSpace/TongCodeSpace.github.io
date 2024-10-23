@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/读书/书评/活过，爱过，写过.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "活过，爱过，写过"
+              "title": "2024年读书"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/生活/读书/书评/活过，爱过，写过.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "活过，爱过，写过 的反向链接列表"
+              "title": "2024年读书 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/生活/读书/书评/活过，爱过，写过.md",
+                "file": "note/生活/读书/2024年读书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "活过，爱过，写过 的出链列表"
+              "title": "2024年读书 的出链列表"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/读书/书评/活过，爱过，写过.md"
+                "file": "note/生活/读书/2024年读书.md"
               },
               "icon": "lucide-list",
-              "title": "活过，爱过，写过 的大纲"
+              "title": "2024年读书 的大纲"
             }
           },
           {
@@ -166,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "note/生活/读书/书评/活过，爱过，写过.md"
+                "file": "note/生活/读书/2024年读书.md"
               },
               "icon": "lucide-info",
-              "title": "活过，爱过，写过的笔记属性"
+              "title": "2024年读书的笔记属性"
             }
           }
         ],
@@ -192,16 +192,17 @@
   },
   "active": "66cb02c9720c30a4",
   "lastOpenFiles": [
-    "note/生活/读书/2024年读书.md",
     "note/生活/读书/书评/活过，爱过，写过.md",
-    "index.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
+    "note/生活/读书/书评/悉达多.md",
+    "note/生活/读书/书评/国王的游戏.md",
+    "note/生活/读书/书评/扶桑.md",
+    "note/生活/读书/2024年读书.md",
+    "index.md",
     "note/生活/读书/书评/面纱.md",
     "note/生活/读书/书评/认知觉醒.md",
     "note/生活/lifeHome.md",
-    "note/生活/读书/书评/扶桑.md",
     "note/生活/期望/2024年规划.md",
-    "note/生活/读书/书评/国王的游戏.md",
     "note/编程/编程相关文章汇总.md",
     "note/编程/Java基础/多线程addAll问题.md",
     "assets/img/logo.png",
@@ -218,7 +219,6 @@
     "note/编程/开源计划/今年的开源计划.md",
     "note/收集箱/待浇灌.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
-    "note/编程/Java基础/泛型.md",
     "note/编程/技术方案",
     "note/生活/工作/2024",
     "note/生活/工作",
