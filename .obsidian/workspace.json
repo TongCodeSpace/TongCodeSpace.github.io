@@ -30,27 +30,24 @@
               "state": {
                 "file": "note/生活/读书/书评/悉达多.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "悉达多"
             }
-          },
-          {
-            "id": "509dca770d9b5590",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +66,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -167,9 +165,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "note/生活/读书/书评/悉达多.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "悉达多 的大纲"
             }
           },
           {
@@ -216,7 +219,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "509dca770d9b5590",
+  "active": "bbbaf7cfbb6cc177",
   "lastOpenFiles": [
     "note/生活/读书/书评/活过，爱过，写过.md",
     "note/生活/读书/2024年读书.md",
