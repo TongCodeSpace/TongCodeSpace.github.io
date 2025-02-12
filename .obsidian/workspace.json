@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/生活/读书/书评/悉达多.md",
+                "file": "note/简历.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "悉达多"
+              "title": "简历"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/生活/读书/书评/悉达多.md",
+                "file": "note/简历.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "悉达多 的大纲"
+              "title": "简历 的大纲"
             }
           },
           {
@@ -221,15 +221,17 @@
   },
   "active": "bbbaf7cfbb6cc177",
   "lastOpenFiles": [
+    "index.md",
+    "note/简历.md",
+    "note/Aboutme.md",
+    "note/生活/读书/书评/悉达多.md",
     "note/生活/读书/书评/活过，爱过，写过.md",
     "note/生活/读书/2024年读书.md",
-    "note/生活/读书/书评/悉达多.md",
     "note/生活/读书/书评/认知觉醒.md",
     "note/生活/读书/书评/面纱.md",
     "note/生活/读书/书评/迷宫中的恋人.md",
     "note/生活/读书/书评/国王的游戏.md",
     "note/生活/读书/书评/扶桑.md",
-    "index.md",
     "note/生活/lifeHome.md",
     "note/生活/期望/2024年规划.md",
     "note/编程/编程相关文章汇总.md",
@@ -242,12 +244,10 @@
     "note/想法/自我/三观.md",
     "note/想法/think.md",
     "note/想法/自我/我是谁.md",
-    "note/Aboutme.md",
     "note/生活/爱好/摄影.md",
     "note/生活/爱好/自行车.md",
     "note/编程/开源计划/今年的开源计划.md",
     "note/收集箱/待浇灌.md",
-    "note/编程/框架学习/策略模型/规则引擎.md",
     "note/编程/技术方案",
     "note/生活/工作/2024",
     "note/生活/工作",
