@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/复盘/阶段/2024上半年复盘.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024上半年复盘"
+              "title": "编程相关文章汇总"
+            }
+          },
+          {
+            "id": "11df820d2caf8c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/编程/编程相关文章汇总.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "编程相关文章汇总"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/复盘/阶段/2024上半年复盘.md",
+                "file": "note/编程/编程相关文章汇总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024上半年复盘 的大纲"
+              "title": "编程相关文章汇总 的大纲"
             }
           },
           {
@@ -228,22 +252,27 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "bbbaf7cfbb6cc177",
+  "active": "11df820d2caf8c1c",
   "lastOpenFiles": [
-    "note/生活/读书/2024年读书.md",
+    "note/编程/多线程/ReentrantLock.md",
+    "note/编程/多线程/守护线程.md",
+    "note/编程/编程相关文章汇总.md",
+    "note/编程/开源计划/今年的开源计划.md",
+    "note/编程/框架学习/netty/初识Netty.md",
+    "note/编程/多线程/未命名.md",
+    "note/编程/框架学习/netty/IO模型.md",
+    "note/编程/框架学习/netty/Reactor 模型.md",
     "note/复盘/阶段/2024上半年复盘.md",
+    "note/生活/读书/2024年读书.md",
     "note/生活/lifeHome.md",
     "note/生活/期望/2024年规划.md",
     "index.md",
     "note/Aboutme.md",
     "note/简历.md",
     "note/想法/自我/三观.md",
-    "note/编程/编程相关文章汇总.md",
     "note/编程/业务/延时任务的处理.md",
     "note/编程/业务/数据库表设计.md",
     "note/编程/框架学习/策略模型/规则引擎.md",
-    "note/编程/开源计划/今年的开源计划.md",
-    "note/编程/多线程/守护线程.md",
     "note/生活/读书/书评/悉达多.md",
     "note/生活/读书/书评/活过，爱过，写过.md",
     "note/生活/读书/书评/认知觉醒.md",
@@ -251,12 +280,7 @@
     "note/生活/读书/书评/迷宫中的恋人.md",
     "note/生活/读书/书评/国王的游戏.md",
     "note/生活/读书/书评/扶桑.md",
-    "note/编程/Java基础/多线程addAll问题.md",
     "assets/img/logo.png",
-    "note/想法/记录/什么是一个好的数字花园.md",
-    "note/想法/记录/什么是一个好的技术方案.md",
-    "note/想法/工作/困惑.md",
-    "note/想法/自我/让自己过的更好.md",
     "note/编程/技术方案",
     "note/生活/工作/2024",
     "note/生活/工作",
