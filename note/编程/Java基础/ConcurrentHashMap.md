@@ -170,6 +170,7 @@ private final Node<K,V>[] initTable () {
 |`sc`|临时变量，保存 `sizeCtl` 的当前值。|
 |`n`|临时变量，表示表的初始容量。|
 |`nt`|临时变量，表示新创建的数组。|
+
 ## 2 . Get 方法流程
 
 ```Java
@@ -223,6 +224,7 @@ Node<K,V> find (int h, Object k) {
 }
 
 ```
+
 ## 3 . Size 方法实现
 ```java
 Public int size () {
@@ -245,6 +247,7 @@ Final long sumCount () {
 ```
 1. 多线程并发更新时的统计策略（baseCount + CounterCell 分段计数）。
 2. 最终一致性设计，非强一致性。
+
 ## 4 . 扩容机制（transfer）
 
 ```java
@@ -378,6 +381,7 @@ private final void transfer (Node<K,V>[] tab, Node<K,V>[] nextTab) {
 
 **4. 完成迁移与状态更新**
 - **全局状态检查**：当所有线程完成迁移后，更新 `table` 为新数组，并计算新的扩容阈值（`sizeCtl = 0.75 * newCapacity`）。
+
 # 三、并发控制策略
 
 - **多线程应用场景**：初始化竞争、并发写入、协同扩容、分片计数、无锁读取。
@@ -387,6 +391,7 @@ private final void transfer (Node<K,V>[] tab, Node<K,V>[] nextTab) {
     - **任务分治**（分片、分块）。
 - **适用场景**：高并发读写、大规模数据存储（如缓存、实时计算）。
 **设计哲学**：通过精细化并发控制，最大化多线程协作效率，在保证线程安全的前提下，最小化性能损耗。
+
 # 四、与其他并发容器的对比
 
 1. ConcurrentHashMap vs Hashtable
